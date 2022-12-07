@@ -5,7 +5,10 @@ To make the project simple, we do not have a sign/login function.
 So there are not user accounts and follow function. You can challenge after you finish the course.
 ```
 Check out [LIVE DEMO](https://AnnieTwitterClone.annieahmad.repl.co) here!!
-## Screenshot <img width="452" alt="Capture_twitter" src="https://user-images.githubusercontent.com/99763336/206088223-2c3a5998-b9f2-4301-9c1e-e60ba7d866c4.PNG">
+## Screenshot 
+
+<img width="452" alt="Capture_twitter" src="https://user-images.githubusercontent.com/99763336/206088577-0c196115-d119-4069-853e-98241163d780.PNG">
+
 
 ## Tech used
 ```
